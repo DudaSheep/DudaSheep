@@ -1,4 +1,4 @@
-## Welcome to DudaSheep's profile 💻🎮🪐🚀
+## Welcome to Duda's profile 💻🎮🪐🚀
 
  <div>
    <a href="https://github.com/DudaSheep">
@@ -28,9 +28,9 @@
 
 
 
-- 👋 Hi, I’m Maria Eduarda
+- 👋 Hi, I’m Maria Eduarda, Computer Science Student at UFRPE
 - 👀 I’m interested in Game Development ...
-- 🌱 I’m currently learning Unity, C# ...
+- 🌱 I’m currently learning Unity, C#, Android, Kotlin...
 - 💞️ I’m looking to collaborate on Game Development ...
 
 
